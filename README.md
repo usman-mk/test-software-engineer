@@ -13,3 +13,7 @@ cd test-software-engineer
 ```bash
 npm install
 ```
+
+```bash
+node index.js
+```
