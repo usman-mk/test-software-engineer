@@ -6,8 +6,8 @@ test of Software engineer
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
-cd the-example-app.nodejs
+git clone https://github.com/usman-mk/test-software-engineer.git
+cd test-software-engineer
 ```
 
 ```bash
