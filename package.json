@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.8"
+  },
+  "name": "test-software-engineer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
